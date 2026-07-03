@@ -231,32 +231,18 @@ This project follows accessibility best practices:
 
 ---
 
-## 🔍 SEO Features
 
-* Meta tags
-* Open Graph tags
-* Twitter Cards
-* Structured Data (JSON-LD)
-* Canonical URLs
-* Sitemap
-* Robots.txt
-* Optimized metadata
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are always welcome. Feel free to fork the repository, create a feature branch, and submit a pull request.
 
 ---
 
-## 🎨 Design Principles
+## 📬 Contact
 
-* Minimal yet premium UI
-* Glassmorphism
-* Smooth animations
-* Clean typography
-* Responsive layouts
-* Consistent spacing
-* High readability
-* Fast loading
+If you'd like to connect or discuss opportunities, feel free to reach out through the contact form on the portfolio or via my professional profiles.
 
 ---
-
 
 ## 📄 License
 
@@ -269,5 +255,3 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Special thanks to the open-source community and the creators of React, Vite, Tailwind CSS, Framer Motion, and other libraries that made this project possible.
 
 ---
-
-**If you found this project helpful or inspiring, consider giving it a ⭐ on GitHub!**
