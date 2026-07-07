@@ -83,3 +83,25 @@ Build and optimize the static assets into compressed chunks inside `/dist`:
 ```bash
 npm run build
 ```
+
+---
+
+## ☁️ Vercel Deployment
+
+This project is a Client-Side Single Page Application (SPA) optimized for edge networks. It compiles static bundles into the `/dist` directory.
+
+### Quick Deploy via Vercel CLI
+
+1. Install the Vercel CLI globally:
+   ```bash
+   npm install -g vercel
+   ```
+2. Trigger the deploy flow in your root folder:
+   ```bash
+   vercel
+   ```
+3. When prompted, use the following deployment settings:
+   *   **Framework Preset**: `Vite` (or `Other`)
+   *   **Build Command**: `npm run build`
+   *   **Output Directory**: `dist`
+   *   **Install Command**: `npm install`
