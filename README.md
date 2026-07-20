@@ -110,4 +110,4 @@ This project is a Client-Side Single Page Application (SPA) optimized for edge n
 
 👨‍💻 Author
 
-Abhishek Singh Sikarwar
+Abhishek Singh Sikarwar || Web Developer
