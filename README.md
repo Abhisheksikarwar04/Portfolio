@@ -105,3 +105,9 @@ This project is a Client-Side Single Page Application (SPA) optimized for edge n
    *   **Build Command**: `npm run build`
    *   **Output Directory**: `dist`
    *   **Install Command**: `npm install`
+  
+---
+
+👨‍💻 Author
+
+Abhishek Singh Sikarwar
